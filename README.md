@@ -1,6 +1,6 @@
 # YandexPracticum_Progect2
 
-# Studying the patterns that determine the success of games
+Analysis of user behavior in a mobile application.
 
 ### Задачи проекта:
 На основе данных использования мобильного приложения для продажи продуктов питания проанализировать воронку продаж, а также оценить результаты A/A/B-тестирования.
